@@ -1,0 +1,57 @@
+{
+  "index": {
+    "title" : "خونه",
+    "type": "page",
+    
+    "theme": {
+      "layout": "raw",
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": false,
+      "toc": false,
+      "pagination": false,
+      "timestamp":false
+      
+    }
+  },
+    "doc":{
+      "title":"مستندات",
+      "type": "page"
+      
+    
+    },
+    "blog":{
+        "title":"وبلاگ",
+        "type":"page",
+         
+    "theme": {
+      "layout": "raw",
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": false,
+      "toc": false,
+      "pagination": false,
+      "timestamp":false
+      
+    }
+  },
+  "another": {
+    "title":"یه چی دیگه"
+  },
+
+
+  "cheetsheet":{
+    "title": "چیت شیت",
+    "type":"page"
+},
+"about": {
+  "title": "درباره ما",
+  "type": "page"
+},
+"contact": {
+  "title": "ارتباط با ما ↗",
+  "type": "page",
+  "href": "https://twitter.com/shuding_",
+  "newWindow": true
+}
+}
